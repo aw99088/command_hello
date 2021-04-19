@@ -1,5 +1,5 @@
-//For cnd o nt grialotutiilmma
-// G bnocatiifiodmuHit
+// For comman line git tutorial
+// GitHub modification
 print("hello world")
 
 
